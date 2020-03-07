@@ -1,4 +1,10 @@
 {
+  "usuarios": [
+  {"nombre": "Adriana", "apellido": "Constantini", "email": "aconstantini@gmail.com", "telefono": "3511112222"},
+  {"nombre": "Esteban", "apellido": "Odriozola", "email": "e.odriozona@gmail.com", "telefono": "3511113333"},
+  {"nombre": "Flavio", "apellido": "Figueroa", "email": "ffig@gmail.com", "telefono": "3511114444"},
+  {"nombre": "Candelaria", "apellido": "Mosqueira", "email": "cmos@gmail.com", "telefono": "3511115555"}
+  ],
   "posts": [
     { "id": 1, "title": "Post 1" },
     { "id": 2, "title": "Post 2" },
